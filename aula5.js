@@ -3,7 +3,3 @@ function mostrarNome() {
 }
 
 console.log("teste")
-console.log("silva")
-console.log("teste2")
-console.log("teste4")
-console.log("teste5")
